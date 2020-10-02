@@ -1,3 +1,9 @@
+mintstick (1.4.4+huayra1) experimental; urgency=medium
+
+  * Build on Huayra GNU/Linux
+
+ -- Matias De lellis <mati86dl@gmail.com>  Fri, 02 Oct 2020 10:45:45 -0300
+
 mintstick (1.4.4) ulyana; urgency=medium
 
   * Unity: catch all exceptions
