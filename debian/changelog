@@ -1,8 +1,14 @@
-mintstick (1.4.4+huayra1) experimental; urgency=medium
+mintstick (1.4.4~huayra5+2) torbellino; urgency=medium
 
-  * Build on Huayra GNU/Linux
+  * Depende de las traducciones.
 
- -- Matias De lellis <mati86dl@gmail.com>  Fri, 02 Oct 2020 10:45:45 -0300
+ -- Matias De lellis <mati86dl@gmail.com>  Thu, 11 Feb 2021 16:54:35 -0300
+
+mintstick (1.4.4~huayra5+1) torbellino; urgency=medium
+
+  * Rebuild for Huayra 5
+
+ -- Matias De lellis <mati86dl@gmail.com>  Thu, 11 Feb 2021 15:59:40 -0300
 
 mintstick (1.4.4) ulyana; urgency=medium
 

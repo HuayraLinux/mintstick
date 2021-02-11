@@ -10,6 +10,7 @@ Package: mintstick
 Architecture: all
 Depends:
  ${misc:Depends},
+ mint-translations,
  coreutils (>= 6.10-3),
  gir1.2-glib-2.0,
  gir1.2-gtk-3.0,
